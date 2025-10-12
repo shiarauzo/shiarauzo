@@ -1,5 +1,8 @@
-## Hi there 👋
-I am Shiara Arauzo, a peruvian based Product Designer. Currently working in Scotiabank Peru.
+## 👋 Hi there  
+I'm **Shiara Arauzo**, a Peru-based Product Designer and qualitative research enthusiast.  
+Currently working at _Scotiabank Peru_.  
+<br>  
+I’m passionate about combining design and neuroscience to create software.
 
 <!--
 **shiarauzo/shiarauzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
