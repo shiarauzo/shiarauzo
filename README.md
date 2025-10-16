@@ -1,5 +1,5 @@
 ## 👋 Hi there  
-I'm **Shiara Arauzo**, a Peru-based Product Designer and qualitative research enthusiast.  
+I'm **Shiara Arauzo**, a Design engineer and qualitative research enthusiast.  
 Currently working at _Scotiabank Peru_.  
 <br>  
 I’m passionate about combining design and neuroscience to create software.
