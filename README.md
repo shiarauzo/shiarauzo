@@ -1,9 +1,11 @@
 ## 👋 Hi there  
 I'm **Shiara Arauzo**, a Design engineer and research enthusiast.  
-Currently working at _Scotiabank Peru_.  
+Currently working at _Valere_.  
 <br>  
 I’m passionate about combining design and neuroscience to create software.
 
+Projects:
+- Writing in [Press - peruvian tech magazine](https://press.crafterstation.com/) and [The research blog](https://shiara.design/)  
 <!--
 **shiarauzo/shiarauzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
