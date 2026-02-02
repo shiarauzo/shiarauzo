@@ -1,5 +1,5 @@
 ## 👋 Hi there  
-I'm **Shiara Arauzo**, a Design engineer and research enthusiast.  
+I'm **Shiara Arauzo**, a Design engineer and research enthusiast. Co-founder of [Crafter Station](https://www.crafterstation.com/)
 Currently working at _Valere_.  
 <br>  
 I’m passionate about combining design and neuroscience to create software.
