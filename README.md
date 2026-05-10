@@ -14,7 +14,6 @@
   | [3D Tetris](https://github.com/shiarauzo/3dtetrisgame) | Classic Tetris reimagined in three dimensions |
   | [Dot Art](https://github.com/shiarauzo/dot-art) | Generative art experiments |
 
-  ---
 
   ## Where to find me
   
@@ -22,5 +21,6 @@
   - Founder [@SheShips](https://www.sheships.org)
   - Co-founder of [Crafter Station](https://www.crafterstation.com/)
   - Writing at [Press](https://press.crafterstation.com/) and [The Next Craft](https://thenextcraft.substack.com/)
+
   
 
