@@ -1,6 +1,7 @@
   ## Hi! I am Shiara Arauzo
 
   I'm a **Design Engineer** focused on creating immersive experiences · Based in 🇵🇪
+  
   I love to build things that feel alive.
 
 
@@ -20,6 +21,6 @@
   - Portafolio [shiara.design](https://shiara.design/) 
   - Founder [@SheShips](https://www.sheships.org)
   - Co-founder of [Crafter Station](https://www.crafterstation.com/)
-  - Writing at [Press](https://press.crafterstation.com/) and [Substack](https://thenextcraft.substack.com/)
+  - Writing at [Press](https://press.crafterstation.com/) and [The Next Craft](https://thenextcraft.substack.com/)
   
 
