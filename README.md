@@ -1,22 +1,16 @@
-## 👋 Hi there  
-I'm **Shiara Arauzo**, a Design engineer and research enthusiast. Co-founder of [Crafter Station](https://www.crafterstation.com/)<br>
-Currently working at _Valere_.  
-<br>  
-I’m passionate about combining design and neuroscience to create software.
+## Hi! I am                                                                       
+     ███████╗██╗  ██╗██╗ █████╗ ██████╗  █████╗                              
+     ██╔════╝██║  ██║██║██╔══██╗██╔══██╗██╔══██╗                             
+     ███████╗███████║██║███████║██████╔╝███████║                             
+     ╚════██║██╔══██║██║██╔══██║██╔══██╗██╔══██║                             
+     ███████║██║  ██║██║██║  ██║██║  ██║██║  ██║                             
+     ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+     and I
+      ╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+      ║  [01] [Rubik Cube 3D](https://github.com/shiarauzo/Rubik-cube-3d) ········· gesture-controlled puzzle      ║
+      ║  [02] [3D Tetris](https://github.com/shiarauzo/3dtetrisgame) ············· spatial game                    ║
+      ║  [03] [Dot Art](https://github.com/shiarauzo/dot-art) ··············· generative visuals                   ║
+      ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 
-Projects:
-- Writing in [Press - peruvian tech magazine](https://press.crafterstation.com/) and [The research blog](https://shiara.design/)  
-<!--
-**shiarauzo/shiarauzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                      Co-founder @CrafterStation
