@@ -1,16 +1,25 @@
-## Hi! I am Shiara Arauzo
-and I am a **Design Engineer** who is focused on create immersive Experiences · Based in 🇵🇪
+  ## Hi! I am Shiara Arauzo
 
-I love to build things that feel alive.
-
-
-  **Projects**
-
-  → [Rubik Cube 3D](https://github.com/shiarauzo/Rubik-cube-3d) — gesture-controlled puzzle
-  → [3D Tetris](https://github.com/shiarauzo/3dtetrisgame) — spatial game
-  → [Dot Art](https://github.com/shiarauzo/dot-art) — generative visuals
+  I'm a **Design Engineer** focused on creating immersive experiences · Based in 🇵🇪
+  I love to build things that feel alive.
 
 
-  Founder [SheShios](www.sheships.org)
-  Co-founder [@CrafterStation](https://www.crafterstation.com/)
+
+  ### Featured Projects
+
+  | Project | Description |
+  |---------|-------------|
+  | [Rubik Cube 3D](https://github.com/shiarauzo/Rubik-cube-3d) | Gesture-controlled Rubik's cube with hand tracking |
+  | [3D Tetris](https://github.com/shiarauzo/3dtetrisgame) | Classic Tetris reimagined in three dimensions |
+  | [Dot Art](https://github.com/shiarauzo/dot-art) | Generative art experiments |
+
+  ---
+
+  ## Where to find me
   
+  - Portafolio [shiara.design](https://shiara.design/) 
+  - Founder [@SheShips](https://www.sheships.org)
+  - Co-founder of [Crafter Station](https://www.crafterstation.com/)
+  - Writing at [Press](https://press.crafterstation.com/) and [Substack](https://thenextcraft.substack.com/)
+  
+
