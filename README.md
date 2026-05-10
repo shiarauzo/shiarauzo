@@ -1,16 +1,23 @@
-## Hi! I am                                                                       
-     ███████╗██╗  ██╗██╗ █████╗ ██████╗  █████╗                              
-     ██╔════╝██║  ██║██║██╔══██╗██╔══██╗██╔══██╗                             
-     ███████╗███████║██║███████║██████╔╝███████║                             
-     ╚════██║██╔══██║██║██╔══██║██╔══██╗██╔══██║                             
-     ███████║██║  ██║██║██║  ██║██║  ██║██║  ██║                             
-     ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-     and I
-      ╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-      ║  [01] [Rubik Cube 3D](https://github.com/shiarauzo/Rubik-cube-3d) ········· gesture-controlled puzzle      ║
-      ║  [02] [3D Tetris](https://github.com/shiarauzo/3dtetrisgame) ············· spatial game                    ║
-      ║  [03] [Dot Art](https://github.com/shiarauzo/dot-art) ··············· generative visuals                   ║
-      ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+  ## Hi! I am
+       ███████╗██╗  ██╗██╗ █████╗ ██████╗  █████╗
+       ██╔════╝██║  ██║██║██╔══██╗██╔══██╗██╔══██╗
+       ███████╗███████║██║███████║██████╔╝███████║
+       ╚════██║██╔══██║██║██╔══██║██╔══██╗██╔══██║
+       ███████║██║  ██║██║██║  ██║██║  ██║██║  ██║
+       ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
+  **Design Engineer** · Immersive Experiences · Peru 🇵🇪
 
-                      Co-founder @CrafterStation
+  I build things that move, respond, and feel alive.
+
+  ─────────────────────────────────────────────────────────────────
+
+  **► Projects**
+
+  [01] [Rubik Cube 3D](https://github.com/shiarauzo/Rubik-cube-3d) ········ gesture-controlled puzzle
+  [02] [3D Tetris](https://github.com/shiarauzo/3dtetrisgame) ············· spatial game
+  [03] [Dot Art](https://github.com/shiarauzo/dot-art) ··················· generative visuals
+
+  ─────────────────────────────────────────────────────────────────
+
+  Co-founder [@CrafterStation](https://www.crafterstation.com/)
