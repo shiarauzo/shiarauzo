@@ -2,7 +2,7 @@
 
   I'm a **Design Engineer** focused on creating immersive experiences · Based in 🇵🇪
   
-  I love to build things that feel alive.
+  I love to build things.
 
 
 
