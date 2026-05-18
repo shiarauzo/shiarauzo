@@ -20,7 +20,7 @@
   - Portafolio [shiara.design](https://shiara.design/) 
   - Founder [@SheShips](https://www.sheships.org)
   - Co-founder of [Crafter Station](https://www.crafterstation.com/)
-  - Writing at [Press](https://press.crafterstation.com/) and [The Next Craft](https://thenextcraft.substack.com/)
+  - Writing at [Research by Shiara](research.shiara.design), [Press](https://press.crafterstation.com/) and [The Next Craft](https://thenextcraft.substack.com/)
 
   
 
