@@ -2,7 +2,7 @@
 
   I'm a **Design Engineer** focused on creating immersive experiences
   
-  I love to build things and explore creative alternative to solve stuff.
+  I love to build things and explore creative ways to solve stuff.
 
 
 
