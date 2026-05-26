@@ -1,8 +1,8 @@
   ## Hi! I am Shiara Arauzo
 
-  I'm a **Design Engineer** focused on creating immersive experiences · Based in 🇵🇪
+  I'm a **Design Engineer** focused on creating immersive experiences
   
-  I love to build things.
+  I love to build things and explore creative alternative to solve stuff.
 
 
 
