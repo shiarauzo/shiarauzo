@@ -10,6 +10,7 @@
 
   | Project | Description |
   |---------|-------------|
+  | [Essalud CLI](https://github.com/shiarauzo/essalud-cli) | Book health appoinments in the terminal |
   | [3D Functions](https://github.com/shiarauzo/3d-functions) | 3D math functions - glowing glass sculptures |
   | [Rubik Cube 3D](https://github.com/shiarauzo/Rubik-cube-3d) | Gesture-controlled Rubik's cube with hand tracking |
   | [3D Tetris](https://github.com/shiarauzo/3dtetrisgame) | Classic Tetris reimagined in three dimensions |
