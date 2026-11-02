@@ -1,6 +1,6 @@
 ## Hi, I am Shiara Arauzo
 
-Design Engineer. I also work as a Product Designer.
+Design Engineer with a product design background.
 
 I draw the interface or the 3D scene, then I build it in the browser.
 
