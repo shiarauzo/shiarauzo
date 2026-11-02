@@ -19,6 +19,6 @@ I draw the interface or the 3D scene, then I build it in the browser.
 
 - Portfolio: [shiara.dev](https://shiara.dev)
 - Co-founder of [Crafter Station](https://crafter.run)
-- Writing at [Research by Shiara](https://research.shiara.design), [Press](https://press.crafterstation.com/), and [The Next Craft](https://thenextcraft.substack.com/)
+- Writing at [Research by Shiara](https://research.shiara.design)
 
 Find me on [LinkedIn](https://www.linkedin.com/in/shiara-arauzo/), [X](https://x.com/shiarauzo), and [Substack](https://substack.com/@shiaraarauzo).
